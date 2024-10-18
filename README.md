@@ -30,3 +30,5 @@ Tambahkan variabel text dan parameter di constructor seperti berikut.
 **Langkah 6: Tambahkan widget di main.dart**
 
 ![alt text](image-3.png)
+
+![alt text](image-4.png)
